@@ -31,12 +31,6 @@ This project is a Django-based web application that implements CRUD (Create, Rea
       env\Scripts\activate
       ```
 
- **Install Dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
  **Apply Database Migrations:**
 
     ```bash
