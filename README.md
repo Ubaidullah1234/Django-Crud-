@@ -9,15 +9,13 @@ This project is a Django-based web application that implements CRUD (Create, Rea
 
 ## Getting Started
 
-### Prerequisites
-
 - Python 
 - Django
 - SQLite (or other database of your choice)
 
 ### Installation
 
-    ```
+   
 
  **Create a Virtual Environment:**
 
@@ -31,12 +29,6 @@ This project is a Django-based web application that implements CRUD (Create, Rea
 
       ```bash
       env\Scripts\activate
-      ```
-
-    - On macOS/Linux:
-
-      ```bash
-      source env/bin/activate
       ```
 
  **Install Dependencies:**
